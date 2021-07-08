@@ -3,6 +3,7 @@
 -☕ I’m currently learning Java.
 -📚 I'm graduated in Biblioteconomia e Ciência da Informação (Librarianship and Information Science)
 
+[![card](https://github-readme-stats.vercel.app/api?username=IsisFernandez&theme=Radical)](https://github.com/iuricode/)
 
 <!--
 **IsisFernandez/IsisFernandez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
