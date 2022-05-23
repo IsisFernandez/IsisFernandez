@@ -1,6 +1,6 @@
 # Hi there 👋 My name is Isis Fernandez 
 
--☕ I’m currently learning Java.
+-I’m currently learning JavaScript.
 -📚 I'm graduated in Biblioteconomia e Ciência da Informação (Librarianship and Information Science)
 
 [![card](https://github-readme-stats.vercel.app/api?username=IsisFernandez&theme=radical)](https://github.com/iuricode/)
