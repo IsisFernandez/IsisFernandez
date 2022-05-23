@@ -5,7 +5,7 @@
 </p>
 
 <p align="left">
-  🦄 Linguagens: 
+  🦄 Languages: 
   </p>
   <p align="left">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />  
@@ -13,7 +13,7 @@
 </p>
 
 <p align="left">
-  💼 Ferramentas: 
+  💼 Tools: 
  </p>
  <p align="left"> <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" /> 
   <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" />  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" /> 
