@@ -40,6 +40,4 @@
 ![image](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
 ![image](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
   
-
-[![card](https://github-readme-stats.vercel.app/api?username=IsisFernandez&theme=tokyonight)](https://github.com/iuricode/)
-
+[![card](https://github-readme-stats.vercel.app/api?username=IsisFernandez&theme=radical&show_icons=true)](https://github.com/iuricode/)
